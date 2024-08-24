@@ -11,7 +11,7 @@
     + built-in and user defined chains
 
 
-    MATCH EXTENSIONS:  connbytes, connlimit, conntrack, hashlimit, length, limit, multiport, set, recent, string, tcp, udp, ttl.
+    **MATCH EXTENSIONS:**  connbytes, connlimit, conntrack, hashlimit, length, limit, multiport, set, recent, string, tcp, udp, ttl.
 
     
   - iptables extensions
